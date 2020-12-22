@@ -4,7 +4,7 @@
 
 
 
-***
+...
 int a = -1;  
 boolean SW = true;  
 void setup()  
@@ -135,4 +135,4 @@ void Speed(int S)
 analogWrite (5,S);  
 analogWrite (6,0);  
 }  
-***
+...
